@@ -34,4 +34,12 @@ O projeto segue os requisitos técnicos solicitados:
 *(Dica: Após rodar o app, tire um print da tela do emulador e suba para uma pasta chamada 'screenshots' no seu repositório para adicionar aqui!)*
 
 ---
-Desenvolvido por [Jaciporan Vieira](https://github.com/JaciporanVieira)
+
+## 👨‍💻 Autor
+
+**Jaciporan Vieira**
+* 💼 Desenvolvedor FullStack
+* ☁️ Experiência com Cloud e Java
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaciporan-vieira/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jaciporan@email.com)
